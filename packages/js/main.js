@@ -21,7 +21,7 @@ if (navClose) {
 
 /*==================== TYPING ANIMATION ====================*/
 let typed = new Typed(".typing", {
-  strings: ["Front End Developer&#128187;", "B.Tech Student&#127891;", "Software Developer&#128187;", "Dreamer&#127758;"],
+  strings: ["Front End Developer&#128187;", "B.Tech Student&#127891;", "Software Developer&#128187;", "Tech Vision&#127758;"],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true
